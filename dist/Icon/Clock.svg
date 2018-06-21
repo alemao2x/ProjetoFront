@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="15px" viewBox="0 0 14 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Clock - Gray 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Teste-Front-End" transform="translate(-807.000000, -391.000000)" fill="#FF9932">
+            <g id="icons-preview" transform="translate(457.000000, 391.000000)">
+                <g id="Icon-+-Tiny-Copy" transform="translate(350.000000, 0.000000)">
+                    <g id="Icon/Clock---Green">
+                        <g id="clock">
+                            <path d="M6.58166895,1.85116667 C1.8419248,1.85116667 1.06878027,2.64413542 1.06878027,7.50616667 C1.06878027,12.3681979 1.8419248,13.1611667 6.58166895,13.1611667 C11.3221494,13.1611667 12.0952939,12.3681979 12.0952939,7.50616667 C12.0952939,2.64413542 11.3221494,1.85116667 6.58166895,1.85116667 M6.58166895,14.256974 C1.29115137,14.256974 0.000368164063,12.9323385 0.000368164063,7.50616667 C0.000368164063,2.07999479 1.29115137,0.755359375 6.58166895,0.755359375 C11.8729229,0.755359375 13.1637061,2.07999479 13.1637061,7.50616667 C13.1637061,12.9323385 11.8729229,14.256974 6.58166895,14.256974" id="Fill-1"></path>
+                            <polygon id="Fill-4" points="9.66415152 9.94623657 6.09009629 7.8521276 6.09009629 3.23100781 7.1585084 3.23100781 7.1585084 7.15280469 10.114048 8.95238241"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
